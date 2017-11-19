@@ -44,7 +44,7 @@ So you will need to decrypt it, but hey its easy ;)
 
 How to decrypt our example:
 ```
-curl https://transfer.sh/RWY5R/VeOx8qvWNaFoAi3BO4tsUW3nblfaDp -o- > /tmp/decoded.txt
+curl https://transfer.sh/RWY5R/VeOx8qvWNaFoAi3BO4tsUW3nblfaDp|gpg -o- > /tmp/decoded.txt
 ```
 
 After you put this into your console it will ask for password to decrypt it.
