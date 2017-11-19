@@ -1,6 +1,8 @@
 # [CRYPTED] Scene-Release-Info
 Get scene release info - **.nfo|.sfv|.jpg|.diz|.releaseinfo**, they are stored only for **14 days** so be quick!
 
+**Video instruction - https://i.imgur.com/HA1Aibf.gifv**
+
 You can also now get our generated files too for rar(s)/zip(s) of scene releases -> https://scriptz-team.info/index.php?post=4, they have extension called **.releaseinfo**
 
 Everything is pgp/gpg crypted with key inside filename.crypt file
