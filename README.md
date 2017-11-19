@@ -40,9 +40,9 @@ bLTKTG/hdlXbsdLvqlwX/skKGioIeFM9bNN4dhFiui3yuAtyEx0+osCRT/KlmBY=
 -----END PGP MESSAGE-----
 ```
 
-So you will need to decrypt it ;)
+So you will need to decrypt it, but hey its easy ;)
 
-How to decode our example:
+How to decrypt our example:
 ```
 curl https://transfer.sh/RWY5R/VeOx8qvWNaFoAi3BO4tsUW3nblfaDp -o- > /tmp/decoded.txt
 ```
